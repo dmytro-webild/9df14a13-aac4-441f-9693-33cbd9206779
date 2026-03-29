@@ -65,7 +65,7 @@ export default function LandingPage() {
         {
           text: "Shop Collection",          href: "#products"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/beautiful-bouquet-with-pink-roses-green-leaves_181624-25521.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/beautiful-bouquet-with-pink-roses-green-leaves_181624-25521.jpg?_wi=1"
       imageAlt="EverBloom elegant flower display"
       mediaAnimation="blur-reveal"
     />
@@ -85,7 +85,7 @@ export default function LandingPage() {
         {
           title: "Eco-Friendly",          description: "Sustainable materials that reduce waste."},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/making-bouquets_23-2148013623.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/making-bouquets_23-2148013623.jpg?_wi=1"
       imageAlt="Crafting process for silk flowers"
       mediaAnimation="slide-up"
     />
@@ -99,11 +99,11 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         {
-          id: "1",          title: "Botanical Accuracy",          description: "Meticulously molded after real species.",          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-bouquet-with-pink-roses-green-leaves_181624-25521.jpg",          imageAlt: "elegant artificial flower bouquet"},
+          id: "1",          title: "Botanical Accuracy",          description: "Meticulously molded after real species.",          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-bouquet-with-pink-roses-green-leaves_181624-25521.jpg?_wi=2",          imageAlt: "elegant artificial flower bouquet"},
         {
-          id: "2",          title: "Maintenance Free",          description: "Forget watering, trimming, or wilting.",          imageSrc: "http://img.b2bpic.net/free-photo/making-bouquets_23-2148013623.jpg",          imageAlt: "close up realistic silk petal texture"},
+          id: "2",          title: "Maintenance Free",          description: "Forget watering, trimming, or wilting.",          imageSrc: "http://img.b2bpic.net/free-photo/making-bouquets_23-2148013623.jpg?_wi=2",          imageAlt: "close up realistic silk petal texture"},
         {
-          id: "3",          title: "Luxury Feel",          description: "Premium silk and velvet base fabrics.",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-valentine-s-day-concept-with-roses_23-2148752585.jpg",          imageAlt: "artificial white peony arrangement"},
+          id: "3",          title: "Luxury Feel",          description: "Premium silk and velvet base fabrics.",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-valentine-s-day-concept-with-roses_23-2148752585.jpg?_wi=1",          imageAlt: "artificial white peony arrangement"},
       ]}
       title="Why EverBloom?"
       description="What sets our botanical replicas apart from traditional decor."
@@ -118,7 +118,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       products={[
         {
-          id: "1",          name: "Peony Perfection",          price: "$89",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-valentine-s-day-concept-with-roses_23-2148752585.jpg"},
+          id: "1",          name: "Peony Perfection",          price: "$89",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-valentine-s-day-concept-with-roses_23-2148752585.jpg?_wi=2"},
         {
           id: "2",          name: "Velvet Rose",          price: "$75",          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-pretty-boho-flowers-bouquet_23-2149526049.jpg"},
         {
@@ -134,7 +134,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          name: "Emma R.",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-woman-enjoying-spring_1098-726.jpg"},
+          id: "1",          name: "Emma R.",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-woman-enjoying-spring_1098-726.jpg?_wi=1"},
         {
           id: "2",          name: "Liam K.",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-woman-posing-indoors_23-2149927580.jpg"},
         {
@@ -142,7 +142,7 @@ export default function LandingPage() {
         {
           id: "4",          name: "Oliver T.",          imageSrc: "http://img.b2bpic.net/free-photo/attractive-african-woman-florist-smiling-making-bouquet-flowers-workplace-white-wall_176420-12267.jpg"},
         {
-          id: "5",          name: "Sarah J.",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-woman-enjoying-spring_1098-726.jpg"},
+          id: "5",          name: "Sarah J.",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-woman-enjoying-spring_1098-726.jpg?_wi=2"},
       ]}
       cardTitle="Loved by Decorators"
       cardTag="Reviews"
