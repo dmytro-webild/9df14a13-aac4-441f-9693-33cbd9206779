@@ -79,7 +79,7 @@ export default function LandingPage() {
           href: "#products",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/beautiful-bouquet-with-pink-roses-green-leaves_181624-25521.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/beautiful-bouquet-with-pink-roses-green-leaves_181624-25521.jpg?_wi=1"
       imageAlt="EverBloom elegant flower display"
       mediaAnimation="blur-reveal"
     />
@@ -105,7 +105,7 @@ export default function LandingPage() {
           description: "Sustainable materials that reduce waste.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/making-bouquets_23-2148013623.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/making-bouquets_23-2148013623.jpg?_wi=1"
       imageAlt="Crafting process for silk flowers"
       mediaAnimation="slide-up"
     />
@@ -122,21 +122,21 @@ export default function LandingPage() {
           id: "1",
           title: "Botanical Accuracy",
           description: "Meticulously molded after real species.",
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-bouquet-with-pink-roses-green-leaves_181624-25521.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-bouquet-with-pink-roses-green-leaves_181624-25521.jpg?_wi=2",
           imageAlt: "elegant artificial flower bouquet",
         },
         {
           id: "2",
           title: "Maintenance Free",
           description: "Forget watering, trimming, or wilting.",
-          imageSrc: "http://img.b2bpic.net/free-photo/making-bouquets_23-2148013623.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/making-bouquets_23-2148013623.jpg?_wi=2",
           imageAlt: "close up realistic silk petal texture",
         },
         {
           id: "3",
           title: "Luxury Feel",
           description: "Premium silk and velvet base fabrics.",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-valentine-s-day-concept-with-roses_23-2148752585.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-valentine-s-day-concept-with-roses_23-2148752585.jpg?_wi=1",
           imageAlt: "artificial white peony arrangement",
         },
       ]}
@@ -156,7 +156,7 @@ export default function LandingPage() {
           id: "1",
           name: "Peony Perfection",
           price: "$89",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-valentine-s-day-concept-with-roses_23-2148752585.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-valentine-s-day-concept-with-roses_23-2148752585.jpg?_wi=2",
         },
         {
           id: "2",
@@ -183,7 +183,7 @@ export default function LandingPage() {
         {
           id: "1",
           name: "Emma R.",
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-woman-enjoying-spring_1098-726.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-woman-enjoying-spring_1098-726.jpg?_wi=1",
         },
         {
           id: "2",
@@ -203,7 +203,7 @@ export default function LandingPage() {
         {
           id: "5",
           name: "Sarah J.",
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-woman-enjoying-spring_1098-726.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-woman-enjoying-spring_1098-726.jpg?_wi=2",
         },
       ]}
       cardTitle="Loved by Decorators"
